@@ -1,15 +1,19 @@
-# Welcome to my GitHub! <img src="https://cdn.simpleicons.org/github/fff" alt="Typescript" width=25>
+# <img src="https://cdn.simpleicons.org/github/fff" alt="Typescript" width=25> Welcome to my GitHub!
 <div align=center>
   <img src="https://blob.gifcities.org/gifcities/TZHP6ZKMTTVATSDFEJMERBGCBZLG43XS.gif">
 </div>
 
-My name is Guillermo, I am a web developer student with a background in digital art.
+My name is Guillermo, I am a **web development** student with a background in digital art.
 
 I began my professional journey in 2020 during the covid pandemic, where I started working as an online **freelance illustrator**.
-Soon after that, wanting to expand my skillset and dive into differents part of the creative process, I studied **3D animation**.
-Then, I joined a postgraduate visual design art program in U-Tad, where I got the chance to work in [Bugs N' Guns](https://store.steampowered.com/app/2648130/Bugs_N_Guns/).
+Soon after that, I studied **3D animation** and then I joined a postgraduate visual design art program in **U-Tad**,
+where I got the chance to work in *[Bugs N' Guns](https://store.steampowered.com/app/2648130/Bugs_N_Guns/)*.
 
-In 2024 I joined the Ao Norte team, working as a 3D artist in the game [Tiny Garden](https://store.steampowered.com/app/2812450/Tiny_Garden/).
+In 2024 I joined the Ao Norte team, working as a 3D artist in the game *[Tiny Garden](https://store.steampowered.com/app/2812450/Tiny_Garden/)*.
+
+That same year I took a **Python** summer course, where I found a passion for **programming and development** and decided to make it my career.
+
+Currently, I'm working on my degree and finding projects to take part in .
 
 ## Skills
 ### Languages
@@ -21,8 +25,10 @@ In 2024 I joined the Ao Norte team, working as a 3D artist in the game [Tiny Gar
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=CSS&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+
 ### Web Frameworks
 ![Angular](https://img.shields.io/badge/Angular-red?style=flat-square&logo=angular)
+
 ### Tools
 ![Git](https://img.shields.io/badge/Git-orange?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
