@@ -7,13 +7,13 @@ My name is Guillermo, I am a **web development** student with a background in di
 
 I began my professional journey in 2020 during the covid pandemic, where I started working as an online **freelance illustrator**.
 Soon after that, I studied **3D animation** and then I joined a postgraduate visual design art program in **U-Tad**,
-where I got the chance to work in *[Bugs N' Guns](https://store.steampowered.com/app/2648130/Bugs_N_Guns/)*.
+where I got to work in *[Bugs N' Guns](https://store.steampowered.com/app/2648130/Bugs_N_Guns/)*.
 
 In 2024 I joined the Ao Norte team, working as a 3D artist in the game *[Tiny Garden](https://store.steampowered.com/app/2812450/Tiny_Garden/)*.
 
 That same year I took a **Python** summer course, where I found a passion for **programming and development** and decided to make it my career.
 
-Currently, I'm working on my degree and finding projects to take part in .
+Currently, I'm working on my degree and finding projects to take part in.
 
 ## Skills
 ### Languages
@@ -42,7 +42,12 @@ Currently, I'm working on my degree and finding projects to take part in .
   <a href="https://store.steampowered.com/app/2812450/Tiny_Garden/"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2812450/header.jpg" width=45%></a>
   <a hred="https://store.steampowered.com/app/2648130/Bugs_N_Guns/"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2648130/header.jpg" width=45%></a>
 </div>
-    
+
+## Contact
+[<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square" width=100>](https://www.linkedin.com/in/guipaces/)
+[](guillermopalomarescespedes@gmail.com)
+
+
 <!--
 **Guillenfe/Guillenfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
