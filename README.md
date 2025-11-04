@@ -40,7 +40,7 @@ Currently, I'm working on my degree and finding projects to take part in.
 ## Previous projects
 <div align=center>
   <a href="https://store.steampowered.com/app/2812450/Tiny_Garden/"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2812450/header.jpg" width=45%></a>
-  <a hred="https://store.steampowered.com/app/2648130/Bugs_N_Guns/"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2648130/header.jpg" width=45%></a>
+  <a href="https://store.steampowered.com/app/2648130/Bugs_N_Guns/"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2648130/header.jpg" width=45%></a>
 </div>
 
 ## Contact
